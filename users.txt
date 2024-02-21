@@ -2,3 +2,5 @@ Valiente admin123
 test prueba
 sieg what
 tresh fire
+
+#Este archivo incluye los usuarios que podrían acceder al sistema en formato Usuario Contraseña
